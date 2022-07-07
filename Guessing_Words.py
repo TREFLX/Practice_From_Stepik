@@ -243,4 +243,4 @@ while again.lower() == 'д':
     play(word)
     again = input('Играем еще раз? (д = да, н = нет):')
 
-print("Спасибо за игру")
+print("Спасибо за игру!!!")
